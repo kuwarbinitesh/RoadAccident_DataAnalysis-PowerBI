@@ -9,13 +9,13 @@ A complete, dynamic, insightful and interactive powerBI dashboard is developed f
 
 Clients want to create a Road Accident Dashboard for year 2021 and 2022 so that they can have an insight on the below requirements -
 
-    -> Primary KPI - Total Casualties and Total Accident values for current year and year on year(YoY) growth
-    -> Primary KPI's - Total Casualties by Accident Severity for Current Year and YoY growth
-    -> Secondary KPI's -Total Casualties with respect to vehicle type for Current Year
-    -> Monthly trend showing comparison of casualties for Current Year and Previous Year
-    -> Casualties by Road type for Current Year
-    -> Current Year Casualties by Area/Location and by Day/Night
-    -> Total Casualties and Total Accidents by Location
+    * Primary KPI - Total Casualties and Total Accident values for current year and year on year(YoY) growth
+    * Primary KPI's - Total Casualties by Accident Severity for Current Year and YoY growth
+    * Secondary KPI's -Total Casualties with respect to vehicle type for Current Year
+    * Monthly trend showing comparison of casualties for Current Year and Previous Year
+    * Casualties by Road type for Current Year
+    * Current Year Casualties by Area/Location and by Day/Night
+    * Total Casualties and Total Accidents by Location
 
 ## Key Features
 
